@@ -1,2 +1,4 @@
 # HDMI-FHD-60Hz
 FHD-1920X1080@60fps
+FPGA  verilog
+Altera EP4CE10
